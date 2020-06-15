@@ -8,5 +8,6 @@ public class SwiftClass {
 
     @nonobjc func testCommitAnalysis() {
         var unused = 1
+        var anotherUnused = ""
     }
 }

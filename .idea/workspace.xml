@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="29738227-0e87-432f-8b6d-4f8d1b797dbe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="29738227-0e87-432f-8b6d-4f8d1b797dbe" name="Default Changelist" comment="test commit analysis">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CustomPodSwift/SwiftClass.swift" beforeDir="false" afterPath="$PROJECT_DIR$/CustomPodSwift/SwiftClass.swift" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +53,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
   <component name="RunManager">
     <configuration name="CustomPodSwift" type="AppleRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CustomPodSwift" TARGET_NAME="CustomPodSwift" CONFIG_NAME="Debug" SCHEME_NAME="CustomPodSwift" IS_LOCATION_SIMULATION_ALLOWED="true" APPLICATION_LANGUAGE="IDELaunchSchemeLanguageUseSystemLanguage" APPLICATION_REGION="" MAKE_ACTIVE="TRUE" SHOULD_DEBUG_EXTENSIONS="false">
@@ -56,8 +78,16 @@
       <updated>1541610118784</updated>
       <workItem from="1541610120773" duration="146000" />
       <workItem from="1541610281009" duration="113000" />
-      <workItem from="1592213322020" duration="381000" />
+      <workItem from="1592213322020" duration="1170000" />
     </task>
+    <task id="LOCAL-00001" summary="test commit analysis">
+      <created>1592213747762</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592213747762</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,10 +98,28 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="test commit analysis" />
+    <option name="LAST_COMMIT_MESSAGE" value="test commit analysis" />
   </component>
 </project>
