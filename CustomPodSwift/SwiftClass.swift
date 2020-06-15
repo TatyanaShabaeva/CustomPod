@@ -5,4 +5,8 @@ public class SwiftClass {
     public static func staticFoo() {}
 
     func bar() {}
+
+    @nonobjc func testCommitAnalysis() {
+        var unused = 1
+    }
 }
