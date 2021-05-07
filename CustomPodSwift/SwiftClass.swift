@@ -1,8 +1,8 @@
 import Foundation
 
 public class SwiftClass {
-    public func foo() {}
-    public static func staticFoo() {}
+    public func foo() -> Int { 1 }
+    public static func staticFoo() -> String { "abc" }
 
     func bar() {}
 
